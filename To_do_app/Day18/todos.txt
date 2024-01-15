@@ -1,0 +1,6 @@
+play hokkey
+wash
+Master Python
+Add phunctionality
+call Alona
+fix exit add button 
